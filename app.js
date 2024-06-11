@@ -1,0 +1,35 @@
+const pepsi = [{
+        name: "Pepsi Diet",
+        amount: "350 cl",
+        amount_per: "8.6%",
+        fat: "0g",
+        fat_per: "0%",
+        sodium: "310mg",
+        sodium_per: "1%",
+        carbolated: "48g",
+        carbolated_per: "15.3%",
+        protein: "0g",
+        protein_per: "0%",
+        ml: "250ml",
+        poster1: "img/ 1 Pepsi white.png",
+        poster2: "img/ 1 Pepsi blue.png",
+        main_poster: "img/pepsi diet.png"
+    },
+    {
+        name: "Pepsi Diet",
+        amount: "350 cl",
+        amount_per: "8.6%",
+        fat: "0g",
+        fat_per: "0%",
+        sodium: "310mg",
+        sodium_per: "1%",
+        carbolated: "48g",
+        carbolated_per: "15.3%",
+        protein: "0g",
+        protein_per: "0%",
+        ml: "250ml",
+        poster1: "img/ 1 Pepsi white.png",
+        poster2: "img/ 1 Pepsi blue.png",
+        main_poster: "img/pepsi diet.png"
+    }
+]
